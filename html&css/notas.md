@@ -44,3 +44,14 @@
 
     - CSS INTERNO (tudo no mesmo arquivo html geralmente dentro do head)
     -CSS EXTERNO(arquivo separado sendo referenciado <link rel blablabla>)
+
+
+
+    id="" (id é referenciado por #)
+    class="" (class é por .)
+    ou o proprio elemento(h2{color: blablabla})
+
+    compartilhar a propriedade em duas seleções 
+    #id, .class, #id, .class{
+
+    }
