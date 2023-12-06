@@ -34,3 +34,13 @@
 
     ul: lista desordenada
     ol: lista ordenanda (1,2,3,4...)
+
+
+
+
+    3 formas de inserção de CSS no HTML:
+    - CSS INLINE ( na mesma linha )
+    <h1 style="color: red;">Cabeçalho</h1>
+
+    - CSS INTERNO (tudo no mesmo arquivo html geralmente dentro do head)
+    -CSS EXTERNO(arquivo separado sendo referenciado <link rel blablabla>)
