@@ -28,3 +28,9 @@
     widht = largura
 
     height = altura
+
+
+    alt = alternativa em texto em quanto carrega imagem ou caso não consiga carregar a imagem (recomendado colocar em todas as fotos)Log
+
+    ul: lista desordenada
+    ol: lista ordenanda (1,2,3,4...)
